@@ -41,7 +41,7 @@ Developed an ML-Assisted Offensive Security framework designed to augment human 
 ## Steps
 
 
-*Ref 1: Intelligent Offensive Engineering
+*Ref 1: ML-Assisted Offensive Security
 
 <img width="541" height="390" alt="IOE3 drawio" src="https://github.com/user-attachments/assets/afa1b606-e1ec-48ce-9918-345c7bc657f1" />
 
@@ -49,17 +49,17 @@ Developed an ML-Assisted Offensive Security framework designed to augment human 
 This project integrates Machine Learning Inference into an offensive security pipeline to optimize vulnerability exploitation within a secure, Host-Only virtual network. An Inference ML Model (Strategic Advisory AI) analyzes a Metasploitable 2 target to identify high-probability entry points and predict attack success rates. This Human-in-the-Loop architecture enables the Kali Linux operator to transition from trial-and-error to a data-driven strategy, executing attacks only after the AI determines the most successful approach.
 
 
-*Ref 2: Intelligent Offensive Engineering
+*Ref 2: ML-Assisted Offensive Security
 
-*Ref 3: Intelligent Offensive Engineering
+*Ref 3: ML-Assisted Offensive Security
 
-*Ref 4: Intelligent Offensive Engineering
+*Ref 4: ML-Assisted Offensive Security
 
-*Ref 5: Intelligent Offensive Engineering
+*Ref 5: ML-Assisted Offensive Security
 
-*Ref 6: Intelligent Offensive Engineering
+*Ref 6: ML-Assisted Offensive Security
 
-*Ref 7: Intelligent Offensive Engineering
+*Ref 7: ML-Assisted Offensive Security
 
 
 
