@@ -1,4 +1,4 @@
-# Neural Assisted Penetration Testing
+# ML Security Testing & Attacking Simulation Project
 
 ## Objective
 
