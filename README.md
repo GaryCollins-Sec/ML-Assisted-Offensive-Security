@@ -87,6 +87,10 @@ At this stage, the "Brain" has moved past raw data processing and is providing a
 Executing a post-script scan demonstrates a high level of Operational Maturity. It proves that as an engineer, you do not rely solely on automation; you use industry-standard tools to verify that the automated system's "vision" aligns with the physical reality of the network.
 
 
+### Lessons Learned
+Future iterations could include real-time database polling via the RPC API, removing the need for intermediary CSV files and creating a fully real-time predictive attack surface monitor.
+
+
 
 
 
